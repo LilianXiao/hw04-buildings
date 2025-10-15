@@ -1,5 +1,30 @@
 # CIS 5660 HW04 Procedural Buildings
 
+## Visual Goals
+I'm personally a huge fan of Gothic, Neo-Gothic/Gothic Revival, and Victorian architecture!  Visually, Gothic architecture comprises spires, pointed arches, buttresses, and stained-glass traceries; Neo-Gothic architecture also developed alongside Neoclassical architecture in the Victorian era (think expansive and powerful geometric structures with pillars, facades, and an overall focus on horizontal and vertical lines).
+
+<img width="425" height="635" alt="image" src="https://github.com/user-attachments/assets/e0901c84-de9e-4c8b-a58b-b6fa404a0629" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/df9d3499-73f5-4883-aa78-2d2292243d48" />
+<img width="821" height="387" alt="image" src="https://github.com/user-attachments/assets/3ad6222c-9e3d-4f6e-b15f-9a40e8ba174e" />
+<img width="730" height="486" alt="image" src="https://github.com/user-attachments/assets/91a6c85c-ba00-4873-8410-52d1fb17bf57" />
+<img width="710" height="415" alt="image" src="https://github.com/user-attachments/assets/45d4fac6-7caa-4646-b224-5be1acb568e1" />
+<img width="1100" height="717" alt="image" src="https://github.com/user-attachments/assets/305ab8b6-7249-4de3-8012-fed3f760207d" />
+<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/5797fc86-a950-431b-bb70-69ff45ce8c63" />
+<img width="2560" height="1906" alt="image" src="https://github.com/user-attachments/assets/80c059b8-7870-46a5-b043-1068355da6d1" />
+
+
+For the purposes of this assignment, I'll be simplifying the more grand flourishes present in Gothic architecture (I fear for the time I have to make everything, but we'll see how it goes...); required assets are boiled down to:
+- Rectangular paned windows
+- Greco-Roman pillars
+- A couple different facade designs (I'm thinking Neoclassical and Gothic)
+- Tower spires
+- Arches
+- A few different overhang styles (flat, leaning, pyramid, gable, etc.)
+- Maybe even simple clocks (clocktowers, much?)
+
+**These are just my initial thoughts.  I may end up straying into more modern architectural styles at the turn of the century, like Art Deco apartments and skyscrapers of the early to mid 20th century!
+
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
