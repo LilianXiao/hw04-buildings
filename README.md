@@ -1,11 +1,8 @@
-# CIS 5660 HW04 Procedural Buildings
+<img width="970" height="1039" alt="image" src="https://github.com/user-attachments/assets/0e7b7aad-0ac4-49c2-8ce2-a5e1b8c3923a" /># CIS 5660 HW04 Procedural Buildings
 
 ## Visual Goals
-I'm personally a huge fan of Gothic, Neo-Gothic/Gothic Revival, and Victorian architecture!  Visually, Gothic architecture comprises spires, pointed arches, buttresses, and stained-glass traceries; Neo-Gothic architecture also developed alongside Neoclassical architecture in the Victorian era (think expansive and powerful geometric structures with pillars, facades, and an overall focus on horizontal and vertical lines).
+I'm personally a huge fan of Neo-Gothic/Gothic Revival Victorian architecture!  Visually, Gothic architecture comprises spires, pointed arches, buttresses, and stained-glass traceries; Neo-Gothic architecture also developed alongside Neoclassical architecture in the Victorian era (think expansive and powerful geometric structures with pillars, facades, and an overall focus on horizontal and vertical lines).
 
-<img width="425" height="635" alt="image" src="https://github.com/user-attachments/assets/e0901c84-de9e-4c8b-a58b-b6fa404a0629" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/df9d3499-73f5-4883-aa78-2d2292243d48" />
-<img width="821" height="387" alt="image" src="https://github.com/user-attachments/assets/3ad6222c-9e3d-4f6e-b15f-9a40e8ba174e" />
 <img width="730" height="486" alt="image" src="https://github.com/user-attachments/assets/91a6c85c-ba00-4873-8410-52d1fb17bf57" />
 <img width="710" height="415" alt="image" src="https://github.com/user-attachments/assets/45d4fac6-7caa-4646-b224-5be1acb568e1" />
 <img width="1100" height="717" alt="image" src="https://github.com/user-attachments/assets/305ab8b6-7249-4de3-8012-fed3f760207d" />
@@ -15,14 +12,52 @@ I'm personally a huge fan of Gothic, Neo-Gothic/Gothic Revival, and Victorian ar
 
 For the purposes of this assignment, I'll be simplifying the more grand flourishes present in Gothic architecture (I fear for the time I have to make everything, but we'll see how it goes...); required assets are boiled down to:
 - Rectangular paned windows
-- Greco-Roman pillars
-- A couple different facade designs (I'm thinking Neoclassical and Gothic)
-- Tower spires
-- Arches
-- A few different overhang styles (flat, leaning, pyramid, gable, etc.)
-- Maybe even simple clocks (clocktowers, much?)
+- Pillars
+- Doors
+- Urban rectangular/flat overhang
+- Maybe some street props?
 
-**These are just my initial thoughts.  I may end up straying into more modern architectural styles at the turn of the century, like Art Deco apartments and skyscrapers of the early to mid 20th century!
+These will be more like the urban Victorian scene, with geometric, close-clustered apartment buildings with both neo-gothic and classical traits.
+
+## Preparing assets
+
+I modeled some assets in Blender for myself to use: two types of windows (short and tall), a door, and a lamppost I ended up making as a street prop.
+
+<img width="349" height="317" alt="image" src="https://github.com/user-attachments/assets/e552d704-8e1c-4256-a5ce-22ce4cfdf806" />
+
+<img width="356" height="376" alt="image" src="https://github.com/user-attachments/assets/53d3c9ec-dee4-4ba5-9abc-ecdca21f511b" />
+
+<img width="347" height="418" alt="image" src="https://github.com/user-attachments/assets/37058d9b-6c00-4bac-902f-acdb1abe8155" />
+
+<img width="538" height="356" alt="image" src="https://github.com/user-attachments/assets/1852c0ac-a1c4-455b-8367-4355929ffa03" />
+
+<img width="507" height="1132" alt="image" src="https://github.com/user-attachments/assets/23f39bda-75f5-4d38-9032-03eeccf28440" />
+
+## Working alongside tutorial
+
+1. Set up the HDA and applied assets
+
+<img width="970" height="1039" alt="image" src="https://github.com/user-attachments/assets/64d411a7-1539-4c7b-abd3-f6373e8457cc" />
+
+4. Added randomization of assets
+
+<img width="685" height="936" alt="image" src="https://github.com/user-attachments/assets/dc77aa17-e537-4ccc-a022-00596cc89331" />
+
+3. Added columns and flat roofing
+
+<img width="769" height="1005" alt="image" src="https://github.com/user-attachments/assets/fb441669-b3eb-4a93-94b6-9bd648d1d200" />
+
+5. Added support beams
+
+<img width="927" height="1050" alt="image" src="https://github.com/user-attachments/assets/e99b5ad1-4789-49a3-98c6-da7cf2f77ab9" />
+
+5. A few different variations
+
+<img width="1210" height="943" alt="image" src="https://github.com/user-attachments/assets/9b2b9250-1efe-4985-aa8d-da5af362c706" />
+
+8. Small "exterior" scene
+
+<img width="1506" height="1057" alt="image" src="https://github.com/user-attachments/assets/3c7aa5f6-1e10-4d05-9859-6977d70271ec" />
 
 
 ## Project Overview
