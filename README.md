@@ -1,5 +1,7 @@
 # CIS 5660 HW04 Procedural Buildings
 
+Video Demo: https://drive.google.com/file/d/1J8KAPHbQQLX94ldnwhaD6qraBQXPHNTr/view?usp=sharing
+
 ## Visual Goals
 I'm personally a huge fan of Neo-Gothic/Gothic Revival Victorian architecture!  Visually, Gothic architecture comprises spires, pointed arches, buttresses, and stained-glass traceries; Neo-Gothic architecture also developed alongside Neoclassical architecture in the Victorian era (think expansive and powerful geometric structures with pillars, facades, and an overall focus on horizontal and vertical lines).
 
